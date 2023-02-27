@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Academic Projects
+[Course Project Descriptions](https://gist.github.com/jacklowrie/68af8cf07bf27939db9b22f24b318c6b)
