@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 #### Academic Projects
-[Course Project Descriptions](https://gist.github.com/jacklowrie/68af8cf07bf27939db9b22f24b318c6b)
+- [Course Project Descriptions](https://gist.github.com/jacklowrie/68af8cf07bf27939db9b22f24b318c6b) from my time at Tufts
