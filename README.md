@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a Masters student in Computer Science at Purdue University, expected graduation May 2026.
 <!--
 **jacklowrie/jacklowrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
